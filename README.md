@@ -1,6 +1,6 @@
 ### About this profile
 
-This profile mostly contains mirrors of projects from around the web and the "git-osphere" that I find interesting. Also check-out my ⭐starred repositories. A lot of interesting stuff from all over GitHub. 
+This profile mostly contains mirrors of projects from around the web and the "git-osphere" that I find interesting. Also check-out my ⭐starred repositories. A lot of interesting stuff from all over the GitHub. 
 
 ### About me
 
