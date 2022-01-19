@@ -12,6 +12,4 @@ I'm an IT and FOSS enthusiast from Serbia, South-Eastern Europe. I've been inter
 
 If you are interested in my technical background and projects, I will eventually open another repo that will have more information. Will let you know when that happens. 🙃
 
-### Other
-
 ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=bocke)
