@@ -1,6 +1,6 @@
 ### About this profile
 
-This profile doesn't contain any of my projects. It's more of a mirror of projects from around of web and "git-osphere" that I find interesting. Also check-out my ⭐starred repositories. A lot of interesting stuff from all over GitHub. 
+This profile doesn't contain any of my projects (well, maybe my SlackBuilds and ufiformat repos, but they are currently dormant). It's more of a mirror of projects from around of web and "git-osphere" that I find interesting. Also check-out my ⭐starred repositories. A lot of interesting stuff from all over GitHub. 
 
 ### About me
 
