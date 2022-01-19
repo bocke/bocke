@@ -1,16 +1,17 @@
-### Hi there 👋
+### About this repo
 
-<!--
-**bocke/bocke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repo doesn't contain any of my projects. It's more of a mirror of projects from around of web and "git-osphere" that I find interesting.
 
-Here are some ideas to get you started:
+Also check-out my ⭐starred repositories. A lot of interesting stuff from all over GitHub. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+Hi! My name is Bojan ([🔊](https://forvo.com/word/bojan/)). If that seems hard to pronounce, you can call me Ben. It's similar enough. 😉
+
+I'm an IT and FOSS enthusiast from Serbia, South-Eastern Europe. I've been interested in computers since I was 9. My first computer was a PC clone with 386sx, Hercules mono graphics and 1 MB of ram. That might give you a clue how old I am. 😀
+
+If you are interested in my technical background and projects, I will eventually open another repo that will have more information. Will let you know when that happens. 🙃
+
+### Other
+
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=bocke)
