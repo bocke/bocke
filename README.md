@@ -42,4 +42,4 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 
 ---
 
-> ⚙️ _Always curious about how things work, how to break them and then fix them again.
+> ⚙️ Always curious about how things work, how to break them and then fix them again.
