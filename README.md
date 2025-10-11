@@ -10,7 +10,7 @@ Hi! My name is Bojan ([🔊](https://forvo.com/word/bojan/)). If that seems hard
 
  * A long time moderator and contributor to MyCity.rs internet forums and one of the admins of Slackware Serbia online community. I ocassionaly contribute to SlackBuilds.org.
 
- * Holds several IT certificates over time: CompTIA A+, CompTIA Network+, CompTIA Linux+ and LPIC-1.
+ * An owner of several IT certificates earned over time: CompTIA A+, CompTIA Network+, CompTIA Linux+ and LPIC-1.
 
  * A collector of retro computers. I have a small collection of Amiga, Atari, Apple, Commodore and PC computers. I am also a fan of retro revival scene, but am not happy about the price increase this revival brings. 😀 
 
