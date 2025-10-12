@@ -15,7 +15,7 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 ## 💻 Programming & Tech
 - **Languages:** C, POSIX shell, C++, Pascal, BASIC, PHP, Python, Perl, Ruby, SQL, and a bit of assembly  
 - **Main OS:** Slackware Linux (since 1999)  
-- **Other interests:** FOSS packaging, embedded Linux, system integration, and software preservation  
+- **Other interests:** Embedded Linux, system integration, and software preservation  
 
 ---
 
