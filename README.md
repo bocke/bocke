@@ -46,4 +46,4 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 
 ---
 
- - If this reads as an AI, it partially is. I tried to edit it a bit, but am still not super happy with it.
+ - If this reads as an AI, it partially is (based on pre-prepared data). I tried to edit it a bit, but am still not super happy with it.
