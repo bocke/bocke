@@ -43,3 +43,9 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 ---
 
 > ⚙️ Always curious about how things work, how to break them and then fix them again.
+
+---
+
+ - If this reads as AI, it partially is. I tried to edit it a bit, but am still not super happy with it.
+ - I might add some small personal tidbits later. 
+ - For example: I like ocassionaly playing chess, but suck at it as I never had any serious education in it :)
