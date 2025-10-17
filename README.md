@@ -47,5 +47,3 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 ---
 
  - If this reads as an AI, it partially is. I tried to edit it a bit, but am still not super happy with it.
- - I might add some small personal tidbits later. 
- - For example: I like ocassionaly playing chess, but suck at it as I never had any serious education in it :)
