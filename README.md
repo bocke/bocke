@@ -43,7 +43,7 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 ---
 
 ## News
-- 2025.11.08. - I actually broke GitHub stars by having more than 5k stars. I had to remove some to acces the rest. For the more important ones, I ended up either saving the content locally on the disk or documenting them via Zread.ai. 5k is too much to manage manually, so I don't know what to do except to ocassionaly remove some in passing. 
+- 2025.11.08. - I actually broke GitHub stars by having more than 5k stars. I had to remove some to acces the rest. For the more important ones, I ended up either saving the content locally on the disk or documenting them via [Zread.ai](https://zread.ai/). 5k is too much to manage manually, so I don't know what to do except to ocassionaly remove some in passing. 
 
 ---
 
