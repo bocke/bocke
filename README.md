@@ -42,7 +42,7 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 - Pets: currently don't have one, but thinking of getting a cat.
   
 ### Foreign Languages
-- English – My daily working language
+- English – Near-native
 - Italian – Read comfortably, speak at a basic level
 - French – Can read well, speak a little
 
