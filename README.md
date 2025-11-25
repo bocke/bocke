@@ -5,7 +5,7 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 ---
 
 ## 🧠 About Me
-- **Location:** Serbia, South-Eastern Europe  
+- **Location:** Belgrade, Serbia, South-Eastern Europe.
 - **Background:** IT & FOSS enthusiast, self-taught programmer, and long-time Linux user  
 - **First computer:** 386SX PC clone with Hercules mono graphics and 1 MB of RAM  
   > That probably tells you how long I’ve been around. 😄  
@@ -13,9 +13,34 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 ---
 
 ## 💻 Programming & Tech
-- **Languages:** C, POSIX shell, C++, Pascal, BASIC, PHP, Python, Perl, Ruby, SQL, and a bit of assembly  
-- **Main OS:** Slackware Linux (since 1999)  
-- **Other interests:** Embedded Linux, system integration, and software preservation  
+
+### Languages I worked with
+- C • C++ • POSIX shell • Python • Perl • Pascal • BASIC • Ruby • PHP • SQL • a bit of Assembly (x86, 6502, 8080)
+
+## Languages I'm exploring
+- Rust, Go, Nim, Zig, Lua, Scheme, Lisp.
+
+### Operating Systems
+- **Main OS:** Slackware Linux (since 1999). 
+- **Modern OSes:** macOS Sequoia (15), Windows 11.
+- **Retro/Historical:** DOS variants, UNIX and adjacent systems, old Linux and ELKS, CP/M, OS/2, Windows 1.0-9x/NT, AmigaOS, Atari TOS.
+- **Alternative:** HaikuOS, AROS, ReactOS.
+
+### Hardware platforms
+- **Retro computers:** Commodore 64, Commodore 128, Atari ST, Amiga 500, ZX Spectrum 48k.
+- **Embedded/SBCs:** Planning work with: RPi/Arduino (or alternatives) for IOT/gardening/permaculture projects. Interested in building a custom distro with Buildroot and Yocto.
+- **Other interests:** Retro computing, embedded Linux, system engineering, system administration, and hardware and software preservation
+
+---
+
+## Personal interests and hobbies
+
+- **Music:** guitar & bass (blues, soul, rock, funk, early R’n’B)
+- Drawing: mostly cartoons and caricatures
+- Writing: drafting a fantasy web novel
+- Nature: relaxing near water, walking in nature
+- People: spending time with friends and family
+- Pets: currently don't have one, but thinking of getting a cat.
 
 ---
 
@@ -48,7 +73,3 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 ---
 
 > ⚙️ Always curious about how things work, how to break them and then fix them again.
-
----
-
- - If this reads as an AI, it partially is (based on pre-prepared data). I tried to edit it a bit, but am still not super happy with it.
