@@ -33,14 +33,21 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 
 ---
 
-## Personal interests and hobbies
-
+## ⭐ Personal interests and hobbies
 - **Music:** guitar & bass (blues, soul, rock, funk, early R’n’B)
 - Drawing: mostly cartoons and caricatures
 - Writing: drafting a fantasy web novel
 - Nature: relaxing near water, walking in nature
 - People: spending time with friends and family
 - Pets: currently don't have one, but thinking of getting a cat.
+  
+### Foreign Languages
+- English – My daily working language
+- Italian – Read comfortably, speak at a basic level
+- French – Can read well, speak a little
+
+### Languages I Want to Learn
+- Chinese • Japanese • Spanish • Portuguese • Greek • Polish • Russian
 
 ---
 
