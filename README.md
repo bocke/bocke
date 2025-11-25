@@ -54,7 +54,8 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 ## 🐧 Community Involvement
 - Moderator & contributor at **[MyCity.rs](https://www.mycity.rs/)** forums  
 - Admin at **[Slackware Serbia](https://www.slackware-srbija.org/forum/)** community  
-- Occasional contributor to **[SlackBuilds.org](https://slackbuilds.org/)**  
+- Occasional contributor to **[SlackBuilds.org](https://slackbuilds.org/)**
+- Occasional small contributions to various FOSS projects (nothing major so far)
 
 ---
 
