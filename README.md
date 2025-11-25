@@ -97,6 +97,8 @@ Some of these experiments include:
 - Performing systematic code cleanup, refactoring routines, and bug-fixing passes
 - Exploring hybrid workflows for retro-computing toolchains and low-memory systems
 
+I’ll be uploading some of these projects soon. They are not production-quality software — they are experimental and educational in nature. These repositories reflect my exploration of programming and systems concepts, and serve as sandboxes for learning and prototyping.
+
 ---
 
 ## News
