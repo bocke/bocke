@@ -81,6 +81,22 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 - Wrote and translated Linux-related tutorial articles
 - Some public speaking experience, though still not confident in that role
 
+### AI-Assisted Development Experiments
+
+Over the past year I've been exploring AI-driven development workflows.
+All projects are architected, reviewed, tested, and maintained by me — AI is
+used as a rapid prototyping and iteration tool.
+
+Some of these experiments include:
+
+- Implementing several text editors (console and FLTK-based) — mostly successful
+- Developing a portable file manager from scratch (Windows/Linux) — work in progress
+- Building a man-page viewer and Markdown authoring tool in FLTK — viewer completed, Markdown tool in progress
+- Attempting to port MicroEmacs 3.0 to X11 — ongoing
+- Creating experimental compilers, parsers, and small DSL tooling — functional but not complete
+- Performing systematic code cleanup, refactoring routines, and bug-fixing passes
+- Exploring hybrid workflows for retro-computing toolchains and low-memory systems
+
 ---
 
 ## News
