@@ -79,7 +79,7 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 - Maintained and administered a community website on shared hosting
 - Served as a forum moderator and mentor, helping users with technical and community issues
 - Wrote and translated Linux-related tutorial articles
-- Some public speaking experience, still improving confidence in this area
+- Some public speaking experience, though still not confident in that role
 
 ---
 
