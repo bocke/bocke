@@ -70,7 +70,7 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 ## 🧩 Hobbies & Projects
 - Collector of retro computers — **Amiga, Atari, Apple, Commodore, PC**  
 - Enthusiast of **emulation**, both retro and modern  
-- Exploring **maker electronics** with **Arduino** and **Raspberry Pi Pico**  
+- Exploring **maker electronics** 
 - Following **retro-hardware** and **homebrew computer** design projects  
 
 ---
