@@ -7,8 +7,6 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 ## 🧠 About Me
 - **Location:** Belgrade, Serbia, South-Eastern Europe.
 - **Background:** IT & FOSS enthusiast, self-taught programmer, and long-time Linux user  
-- **First computer:** 386SX PC clone with Hercules mono graphics and 1 MB of RAM  
-  > That probably tells you how long I’ve been around. 😄  
 
 ---
 
