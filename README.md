@@ -17,7 +17,7 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 ### Languages I worked with
 - C • C++ • POSIX shell • Python • Perl • Pascal • BASIC • Ruby • PHP • SQL • a bit of Assembly (x86, 6502, 8080)
 
-## Languages I'm exploring
+### Languages I'm exploring
 - Rust, Go, Nim, Zig, Lua, Scheme, Lisp.
 
 ### Operating Systems
