@@ -18,7 +18,7 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 - C • C++ • POSIX shell • Python • Perl • Pascal • BASIC • Ruby • PHP • SQL • a bit of Assembly (x86, 6502, 8080)
 
 ### Languages I'm exploring
-- Rust, Go, Nim, Zig, Lua, Scheme, Lisp.
+- Rust, Go, Nim, Zig, Lua, Scheme, Lisp, assembly (ARM7, ARM64).
 
 ### Operating Systems
 - **Main OS:** Slackware Linux (since 1999). 
