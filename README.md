@@ -28,7 +28,7 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 
 ### Hardware platforms
 - **Retro computers:** Commodore 64, Commodore 128, Atari ST, Amiga 500, ZX Spectrum 48k.
-- **Embedded/SBCs:** Planning work with: RPi/Arduino (or alternatives) for IOT/gardening/permaculture projects. Interested in building a custom distro with Buildroot and Yocto.
+- **Embedded/SBCs:** Planning work with: RPi/Arduino (or alternatives) for IOT/gardening/permaculture projects. Interested in building a custom distro with Buildroot/Yocto.
 - **Other interests:** Retro computing, embedded Linux, system engineering, system administration, and hardware and software preservation
 
 ---
