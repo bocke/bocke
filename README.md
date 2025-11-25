@@ -66,20 +66,20 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 ---
 
 ## 🧩 IT experiences
-- Worked with a wide range of operating systems, including Linux and BSD variants
-- Packaged software for several Linux distributions (Ubuntu, Fedora, Slackware) and formats (AppImage)
-- Created small minimal chroot-based Linux environments for experimentation
-- Used multiple virtualization solutions on Linux (QEMU/KVM, VirtualBox, etc.)
-- Familiar with several Linux and BSD init systems and package management systems
+- Worked with a wide range of operating systems, including multiple Linux and BSD variants
+- Packaged software for Ubuntu, Fedora, Slackware, and AppImage
+- Created minimal chroot-based Linux environments for experimentation
+- Used various virtualization solutions on Linux (QEMU/KVM, VirtualBox, etc.)
+- Familiar with multiple Linux/BSD init systems and package management tools
 - Experience with chroot and LXC containers
 - Some hands-on experience with CI/CD pipelines
-- LAN setup, maintenance, and troubleshooting
-- IT equipment procurement and consulting
-- Diagnosed and resolved hardware and software issues in a small company environment
-- Maintained and administered a community website hosted on shared hosting
-- Served as a forum moderator and mentor, focusing on advisory support and helping users solve technical and community issues
+- Performed LAN setup, maintenance, and troubleshooting
+- Provided IT equipment procurement and consulting
+- Diagnosed and resolved hardware and software issues in a small company
+- Maintained and administered a community website on shared hosting
+- Served as a forum moderator and mentor, helping users with technical and community issues
 - Wrote and translated Linux-related tutorial articles
-- Some public speaking experience, though still not confident in that role
+- Some public speaking experience, still improving confidence in this area
 
 ---
 
