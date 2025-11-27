@@ -83,11 +83,19 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 
 ### AI-Assisted Development Experiments
 
-Over the past year I've been exploring AI-driven development workflows. This is a pretty long discussion and I have my own opinions and conclusions on this. With the right mindset it can speed up learning IT and development topics. And, no - it will not replace the traditional developers. But it might help bootstrap an app fast. It can also help with debugging and testing. Or fast prototyping.
+Over the past year I’ve been experimenting with AI-driven development. It’s a long topic and I have plenty of thoughts about it, but here’s the short version: AI isn’t replacing developers anytime soon, but it can be genuinely helpful — especially on smaller, well-defined tasks.
 
-I've been testing AI assisted development on several different utilities: text editors (console nad GUI), file managers, man viewer, Markdown authoring tool, etc. I'm still considering if I will release some of this. Maybe when it gets polished enough. The base code is ready, now it's up to me to shape them into something presentable. AI usefulness usually decreases as the project complexity grows. Then you have to transtion into human led development, recasting AI into the role of consultant, reviewer and debugger. It's also good for exploring ideas and features to add, remove or change. But, this has to be led by clear idea or spec for the best effect.
+To test this properly, I tried building a bunch of different things with AI support:
+text editors (console and GUI), file managers, a man-page viewer, a small Markdown authoring tool, and a few other utilities. I also experimented with using AI to debug code, add new features, adapt existing projects, and even generate shell scripts (which works, but you really have to double-check everything).
 
-Anyway, AI as automatic programmer -> not reliable. But, AI as coding tool/helper -> it can be excellent, especially for smaller tasks or subtasks. AI as a teacher or learning tool -> with right approach might make learning much easier and faster.
+Some of these projects might get released at some point once I clean them up. The basic code is there; it just needs some shaping before it’s ready for the world.
+
+One thing I noticed is that AI’s usefulness drops as a project grows in size or complexity. At that point you basically switch back to human-led development and use the AI as a helper — someone to ask for a quick review, bounce ideas off, or help track down an odd bug. AI is also useful when exploring feature ideas, but only if you already know what you want.
+
+So here’s my takeaway:
+- AI as a fully automatic programmer: not reliable.
+- AI as a helper for small tasks: very good.
+- AI as a learning tool: surprisingly effective, especially if you already know the basics and ask the right questions.
 
 ---
 
