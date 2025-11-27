@@ -83,21 +83,11 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 
 ### AI-Assisted Development Experiments
 
-Over the past year I've been exploring AI-driven development workflows.
-All projects are architected, reviewed, tested, and maintained by me — AI is
-used as a rapid prototyping and iteration tool.
+Over the past year I've been exploring AI-driven development workflows. This is a pretty long discussion and I have my own opinions and conclusions on this. With the right mindset it can speed up learning IT and development topics. And, no - it will not replace the traditional developers. But it might help bootstrap an app fast. It can also help with debugging and testing. Or fast prototyping.
 
-Some of these experiments include:
+I'm still considering if I will release some of this. Maybe when it gets polished enough. The base code is ready, now it's up to me to shape them into something presentable. AI usefulness usually decreases as the project complexity grows. Then you have to transtion into human led development, recasting AI into the role of consultant, reviewer and debugger. It's also good for exploring ideas and features to add, remove or change. But, this has to be led by clear idea or spec for the best effect.
 
-- Implementing several text editors (console and GUI) — mostly successful
-- Developing a portable file manager from scratch — work in progress
-- Building a man-page viewer and Markdown authoring tool in FLTK — viewer completed, Markdown tool in progress
-- Attempting to port MicroEmacs 3.0 to X11 — ongoing
-- Creating experimental compilers, parsers, and small DSL tooling — functional but not complete
-- Performing systematic code cleanup, refactoring routines, and bug-fixing passes
-- Exploring hybrid workflows for retro-computing toolchains and low-memory systems
-
-I’ll be uploading some of these projects soon. They are not production-quality software — they are experimental and educational in nature. 
+Anyway, AI as automatic programmer -> not reliable. But, AI as coding tool/helper -> it can be excellent. AI as a teacher or learning tool -> with right approach might make learning much easier and faster.
 
 ---
 
