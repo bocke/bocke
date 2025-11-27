@@ -90,7 +90,7 @@ text editors (console and GUI), file managers, a man-page viewer, a small Markdo
 
 Some of these projects might get released at some point once I clean them up. The basic code is there; it just needs some shaping before it’s ready for the world.
 
-One thing I noticed is that AI’s usefulness drops as a project grows in size or complexity. At that point you basically switch back to human-led development and use the AI as a helper — someone to ask for a quick review, bounce ideas off, or help track down an odd bug. AI is also useful when exploring feature ideas, but only if you already know what you want.
+One thing I noticed is that AI’s usefulness drops as a project grows in size or complexity. At that point you basically switch back to human-led development and use the AI as a helper, someone to ask for a quick review, bounce ideas off, or help track down an odd bug. AI is also useful when exploring feature ideas, but only if you already know what you want.
 
 So here’s my takeaway:
 - AI as a fully automatic programmer: not reliable.
