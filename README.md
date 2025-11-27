@@ -97,6 +97,8 @@ So here’s my takeaway:
 - AI as a helper for small tasks: very good.
 - AI as a learning tool: surprisingly effective, especially if you already know the basics and ask the right questions.
 
+This section of text is genuinely written by me, but I did use AI to improve it stylistically. I just noticed it inserted em dashes, which is funny knowing that the whole section is about my personal impressions about AI. Em Dashes removed from the last revision.
+
 ---
 
 ## News
