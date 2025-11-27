@@ -89,15 +89,15 @@ used as a rapid prototyping and iteration tool.
 
 Some of these experiments include:
 
-- Implementing several text editors (console and FLTK-based) — mostly successful
-- Developing a portable file manager from scratch (Windows/Linux) — work in progress
+- Implementing several text editors (console and GUI) — mostly successful
+- Developing a portable file manager from scratch — work in progress
 - Building a man-page viewer and Markdown authoring tool in FLTK — viewer completed, Markdown tool in progress
 - Attempting to port MicroEmacs 3.0 to X11 — ongoing
 - Creating experimental compilers, parsers, and small DSL tooling — functional but not complete
 - Performing systematic code cleanup, refactoring routines, and bug-fixing passes
 - Exploring hybrid workflows for retro-computing toolchains and low-memory systems
 
-I’ll be uploading some of these projects soon. They are not production-quality software — they are experimental and educational in nature. These repositories reflect my exploration of programming and systems concepts, and serve as sandboxes for learning and prototyping.
+I’ll be uploading some of these projects soon. They are not production-quality software — they are experimental and educational in nature. 
 
 ---
 
