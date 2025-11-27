@@ -87,7 +87,7 @@ Over the past year I've been exploring AI-driven development workflows. This is 
 
 I'm still considering if I will release some of this. Maybe when it gets polished enough. The base code is ready, now it's up to me to shape them into something presentable. AI usefulness usually decreases as the project complexity grows. Then you have to transtion into human led development, recasting AI into the role of consultant, reviewer and debugger. It's also good for exploring ideas and features to add, remove or change. But, this has to be led by clear idea or spec for the best effect.
 
-Anyway, AI as automatic programmer -> not reliable. But, AI as coding tool/helper -> it can be excellent. AI as a teacher or learning tool -> with right approach might make learning much easier and faster.
+Anyway, AI as automatic programmer -> not reliable. But, AI as coding tool/helper -> it can be excellent, especially for smaller tasks or subtasks. AI as a teacher or learning tool -> with right approach might make learning much easier and faster.
 
 ---
 
