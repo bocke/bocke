@@ -81,7 +81,7 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 - Wrote and translated Linux-related tutorial articles
 - Some public speaking experience, though still not confident in that role
 
-## AI-Assisted Development Experiments
+## 🤖 AI-Assisted Development Experiments
 
 - Over the past year I’ve been experimenting with AI-driven development. It’s a long topic and I have plenty of thoughts about it, but here’s the short version: AI isn’t replacing developers anytime soon, but it can be genuinely helpful, especially on smaller, well-defined tasks.
 
