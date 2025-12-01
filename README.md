@@ -81,23 +81,21 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 - Wrote and translated Linux-related tutorial articles
 - Some public speaking experience, though still not confident in that role
 
-### AI-Assisted Development Experiments
+## AI-Assisted Development Experiments
 
-Over the past year I’ve been experimenting with AI-driven development. It’s a long topic and I have plenty of thoughts about it, but here’s the short version: AI isn’t replacing developers anytime soon, but it can be genuinely helpful, especially on smaller, well-defined tasks.
+- Over the past year I’ve been experimenting with AI-driven development. It’s a long topic and I have plenty of thoughts about it, but here’s the short version: AI isn’t replacing developers anytime soon, but it can be genuinely helpful, especially on smaller, well-defined tasks.
 
-To test this properly, I tried building a bunch of different things with AI support:
+- To test this properly, I tried building a bunch of different things with AI support:
 text editors (console and GUI), file managers, a man-page viewer, a small Markdown authoring tool, and a few other utilities. I also experimented with using AI to debug code, add new features, adapt existing projects, and even generate shell scripts (which works, but you really have to double-check everything).
 
-Some of these projects might get released at some point once I clean them up. The basic code is there; it just needs some shaping before it’s ready for the world.
+- Some of these projects might get released at some point once I clean them up. The basic code is there; it just needs some shaping before it’s ready for the world.
 
-One thing I noticed is that AI’s usefulness drops as a project grows in size or complexity. At that point you basically switch back to human-led development and use the AI as a helper, someone to ask for a quick review, bounce ideas off, or help track down an odd bug. AI is also useful when exploring feature ideas, but only if you already know what you want.
+- One thing I noticed is that AI’s usefulness drops as a project grows in size or complexity. At that point you basically switch back to human-led development and use the AI as a helper, someone to ask for a quick review, bounce ideas off, or help track down an odd bug. AI is also useful when exploring feature ideas, but only if you already know what you want.
 
-So here’s my takeaway:
-- AI as a fully automatic programmer: not reliable.
-- AI as a helper for small tasks: very good.
-- AI as a learning tool: surprisingly effective, especially if you already know the basics and ask the right questions.
-
-This section of text is genuinely written by me, but I did use AI to improve it stylistically. I just noticed it inserted em dashes, which is funny knowing that the whole section is about my personal impressions about AI. Em Dashes removed from the last revision.
+- So here’s my takeaway:
+   - AI as a fully automatic programmer: not reliable.
+   - AI as a helper for small tasks: very good.
+   - AI as a learning tool: surprisingly effective, especially if you already know the basics and ask the right questions.
 
 ---
 
