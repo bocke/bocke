@@ -86,7 +86,18 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 - Over the past year I’ve been experimenting with AI-driven development. It’s a long topic and I have plenty of thoughts about it, but here’s the short version: AI isn’t replacing developers anytime soon, but it can be genuinely helpful, especially on smaller, well-defined tasks.
 
 - To test this properly, I tried building a bunch of different things with AI support:
-text editors (console and GUI), file managers, a man-page viewer, a small Markdown authoring tool, and a few other utilities. I also experimented with using AI to debug code, add new features, adapt existing projects, and even generate shell scripts (which works, but you really have to double-check everything).
+   - text editors (console and GUI),
+   - file managers,
+   - a man-page viewer,
+   - a small Markdown authoring tool,
+   - simple lexers, parsers, interpreters,
+   - a few other utilities.
+
+- I also experimented with using AI to:
+   - debug code,
+   - add new features,
+   - adapt existing projects,
+   - and even generate shell scripts (which works, but you really have to double-check everything).
 
 - Some of these projects might get released at some point once I clean them up. The basic code is there; it just needs some shaping before it’s ready for the world.
 
