@@ -1,4 +1,4 @@
-# 👋 Hi there!
+`# 👋 Hi there!
 
 I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to pronounce, you can call me **Ben** — it’s close enough. 😉
 
@@ -19,8 +19,8 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 - Rust, Go, Nim, Zig, Lua, Scheme, Lisp, assembly (ARM7, ARM64).
 
 ### Operating Systems
-- **Main OS:** Slackware Linux (since 1999). 
-- **Other OSes:** macOS Sequoia (15), Windows 11.
+- **Main OS:** Slackware Linux (since 1999), Current. 
+- **Other OSes:** macOS Tahoe (26.1), Windows 11.
 - **Retro/Historical:** DOS variants, UNIX and adjacent systems, old Linux and ELKS, CP/M, OS/2, Windows 1.0-9x/NT, AmigaOS, Atari TOS, classic MacOS, Mac OS X.
 - **Alternative:** HaikuOS, AROS, ReactOS.
 
@@ -112,6 +112,7 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 
 ## News
 - 2025.11.08. - I actually broke GitHub stars by having more than 5k stars. I had to remove some to access the rest. For the more important ones, I ended up either saving the content locally on the disk or documenting them via [Zread.ai](https://zread.ai/). 5k is too much to manage manually, so I don't know what to do except to ocassionaly remove some in passing. 
+- 2025.12.02. - I cleaned up a lot of starred repoes. I have around 9.980 left (still a lot). It's likely that number was at least 500-1000 starred repoes higher before. I also deleted all groups. Now I can access "the stars" much more easier and rarely see [the unicorn](https://github.com/503.html) again.
 
 ---
 
