@@ -1,4 +1,4 @@
-`# 👋 Hi there!
+# 👋 Hi there!
 
 I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to pronounce, you can call me **Ben** — it’s close enough. 😉
 
