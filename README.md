@@ -81,39 +81,6 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 - Wrote and translated Linux-related tutorial articles
 - Some public speaking experience, though still not confident in that role
 
-## 🤖 AI-Assisted Development Experiments
-
-- Over the past year I’ve been experimenting with AI-driven development. It’s a long topic and I have plenty of thoughts about it, but here’s the short version: AI isn’t replacing developers anytime soon, but it can be genuinely helpful, especially on smaller, well-defined tasks.
-
-- To test this properly, I tried building a bunch of different things with AI support:
-   - text editors (console and GUI),
-   - file managers,
-   - a man-page viewer,
-   - a small Markdown authoring tool,
-   - simple lexers, parsers, interpreters,
-   - a few other utilities.
-
-- I also experimented with using AI to:
-   - debug code,
-   - add new features,
-   - adapt existing projects,
-   - and even generate shell scripts (which works, but you really have to double-check everything).
-
-- Some of these projects might get released at some point once I clean them up. The basic code is there; it just needs some shaping before it’s ready for the world.
-
-- One thing I noticed is that AI’s usefulness drops as a project grows in size or complexity. At that point you basically switch back to human-led development and use the AI as a helper, someone to ask for a quick review, bounce ideas off, or help track down an odd bug. AI is also useful when exploring feature ideas, but only if you already know what you want.
-
-- So here’s my takeaway:
-   - AI as a fully automatic programmer: not reliable.
-   - AI as a helper for small tasks: very good.
-   - AI as a learning tool: surprisingly effective, especially if you already know the basics and ask the right questions.
-
----
-
-## News
-- 2025.11.08. - I actually broke GitHub stars by having more than 5k stars. I had to remove some to access the rest. For the more important ones, I ended up either saving the content locally on the disk or documenting them via [Zread.ai](https://zread.ai/). 5k is too much to manage manually, so I don't know what to do except to ocassionaly remove some in passing. 
-- 2025.12.02. - I cleaned up a lot of starred repoes. I have around 9.980 left (still a lot). It's likely that number was at least 500-1000 starred repoes higher before. I also deleted all groups. Now I can access "the stars" much more easier and rarely see [the unicorn](https://github.com/503.html) again.
-
 ---
 
 > ⚙️ Always curious about how things work, how to break them and then fix them again.
