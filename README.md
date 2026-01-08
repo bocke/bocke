@@ -20,7 +20,7 @@ I'm **Bojan** ([🔊](https://forvo.com/word/bojan/)), but if that’s hard to p
 
 ### Operating Systems
 - **Main OS:** Slackware Linux (since 1999), Current. 
-- **Other OSes:** macOS Tahoe (26.1), Windows 11.
+- **Other OSes:** macOS Tahoe (26), Windows 11.
 - **Retro/Historical:** DOS variants, UNIX and adjacent systems, old Linux and ELKS, CP/M, OS/2, Windows 1.0-9x/NT, AmigaOS, Atari TOS, classic MacOS, Mac OS X.
 - **Alternative:** HaikuOS, AROS, ReactOS.
 
